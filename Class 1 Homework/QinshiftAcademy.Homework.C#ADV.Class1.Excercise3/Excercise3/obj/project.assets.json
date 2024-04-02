@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ilija\\Documents\\github\\C# Advanced Homeworks\\Class 1 Homework\\QinshiftAcademy.Homework.C#ADV.Class1.Excercise3\\Excercise3\\Excercise3.csproj",
+      "projectUniqueName": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 1 Homework\\QinshiftAcademy.Homework.C#ADV.Class1.Excercise3\\Excercise3\\Excercise3.csproj",
       "projectName": "Excercise3",
-      "projectPath": "C:\\Users\\Ilija\\Documents\\github\\C# Advanced Homeworks\\Class 1 Homework\\QinshiftAcademy.Homework.C#ADV.Class1.Excercise3\\Excercise3\\Excercise3.csproj",
+      "projectPath": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 1 Homework\\QinshiftAcademy.Homework.C#ADV.Class1.Excercise3\\Excercise3\\Excercise3.csproj",
       "packagesPath": "C:\\Users\\Ilija\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ilija\\Documents\\github\\C# Advanced Homeworks\\Class 1 Homework\\QinshiftAcademy.Homework.C#ADV.Class1.Excercise3\\Excercise3\\obj\\",
+      "outputPath": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 1 Homework\\QinshiftAcademy.Homework.C#ADV.Class1.Excercise3\\Excercise3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

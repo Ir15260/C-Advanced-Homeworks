@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97E0A8-365C-4E56-A786-CD73B49B7E0C}|Domain\\Domain.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 3 homework\\qinshiftacademy.homework.c#adv.class3.excercise1\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A97E0A8-365C-4E56-A786-CD73B49B7E0C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97E0A8-365C-4E56-A786-CD73B49B7E0C}|Domain\\Domain.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 3 homework\\qinshiftacademy.homework.c#adv.class3.excercise1\\domain\\database\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A97E0A8-365C-4E56-A786-CD73B49B7E0C}|Domain\\Domain.csproj|solutionrelative:domain\\database\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60B8C0B-0B72-4A83-8FED-9749F0CAB5E4}|Excercise1\\Excercise1.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 3 homework\\qinshiftacademy.homework.c#adv.class3.excercise1\\excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B60B8C0B-0B72-4A83-8FED-9749F0CAB5E4}|Excercise1\\Excercise1.csproj|solutionrelative:excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B60B8C0B-0B72-4A83-8FED-9749F0CAB5E4}|Excercise1\\Excercise1.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 3 homework\\qinshiftacademy.homework.c#adv.class3.excercise1\\excercise1\\excercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B60B8C0B-0B72-4A83-8FED-9749F0CAB5E4}|Excercise1\\Excercise1.csproj|solutionrelative:excercise1\\excercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97E0A8-365C-4E56-A786-CD73B49B7E0C}|Domain\\Domain.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 3 homework\\qinshiftacademy.homework.c#adv.class3.excercise1\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A97E0A8-365C-4E56-A786-CD73B49B7E0C}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Excercise1.csproj",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Excercise1\\Excercise1.csproj",
+              "RelativeDocumentMoniker": "Excercise1\\Excercise1.csproj",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Excercise1\\Excercise1.csproj",
+              "RelativeToolTip": "Excercise1\\Excercise1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T20:40:03.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Excercise1\\Program.cs",
+              "RelativeDocumentMoniker": "Excercise1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Excercise1\\Program.cs",
+              "RelativeToolTip": "Excercise1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:39:57.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Domain\\Database\\UserDatabase.cs",
+              "RelativeDocumentMoniker": "Domain\\Database\\UserDatabase.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Domain\\Database\\UserDatabase.cs",
+              "RelativeToolTip": "Domain\\Database\\UserDatabase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:39:21.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T20:38:31.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 3 Homework\\QinshiftAcademy.Homework.C#ADV.Class3.Excercise1\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T20:37:46.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
