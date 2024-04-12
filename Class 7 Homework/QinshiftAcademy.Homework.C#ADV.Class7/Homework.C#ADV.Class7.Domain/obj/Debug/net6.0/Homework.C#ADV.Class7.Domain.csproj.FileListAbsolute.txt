@@ -1,0 +1,12 @@
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\Homework.C#ADV.Class7.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\Homework.C#ADV.Class7.Domain.AssemblyInfoInputs.cache
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\Homework.C#ADV.Class7.Domain.AssemblyInfo.cs
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\Homework.C#ADV.Class7.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\Homework.C#ADV.Class7.Domain.sourcelink.json
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\bin\Debug\net6.0\Homework.C#ADV.Class7.Domain.deps.json
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\bin\Debug\net6.0\Homework.C#ADV.Class7.Domain.dll
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\bin\Debug\net6.0\Homework.C#ADV.Class7.Domain.pdb
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\Homework.C#ADV.Class7.Domain.dll
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\refint\Homework.C#ADV.Class7.Domain.dll
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\Homework.C#ADV.Class7.Domain.pdb
+C:\Users\Ilija\Documents\github\C-Advanced-Homeworks\Class 7 Homework\QinshiftAcademy.Homework.C#ADV.Class7\Homework.C#ADV.Class7.Domain\obj\Debug\net6.0\ref\Homework.C#ADV.Class7.Domain.dll

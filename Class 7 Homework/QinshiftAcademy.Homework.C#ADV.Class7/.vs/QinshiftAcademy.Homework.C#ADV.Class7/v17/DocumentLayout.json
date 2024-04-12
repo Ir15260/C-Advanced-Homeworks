@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96D2BC72-67E1-4011-B239-16AE0C11BF7A}|Homework.C#ADV.Class7\\Homework.C#ADV.Class7.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 7 homework\\qinshiftacademy.homework.c#adv.class7\\homework.c#adv.class7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D2BC72-67E1-4011-B239-16AE0C11BF7A}|Homework.C#ADV.Class7\\Homework.C#ADV.Class7.csproj|solutionrelative:homework.c#adv.class7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54A0C4-B6BA-479A-BE1A-CCF6F715CB52}|Homework.C#ADV.Class7.Domain\\Homework.C#ADV.Class7.Domain.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 7 homework\\qinshiftacademy.homework.c#adv.class7\\homework.c#adv.class7.domain\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54A0C4-B6BA-479A-BE1A-CCF6F715CB52}|Homework.C#ADV.Class7.Domain\\Homework.C#ADV.Class7.Domain.csproj|solutionrelative:homework.c#adv.class7.domain\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54A0C4-B6BA-479A-BE1A-CCF6F715CB52}|Homework.C#ADV.Class7.Domain\\Homework.C#ADV.Class7.Domain.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 7 homework\\qinshiftacademy.homework.c#adv.class7\\homework.c#adv.class7.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54A0C4-B6BA-479A-BE1A-CCF6F715CB52}|Homework.C#ADV.Class7.Domain\\Homework.C#ADV.Class7.Domain.csproj|solutionrelative:homework.c#adv.class7.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F54A0C4-B6BA-479A-BE1A-CCF6F715CB52}|Homework.C#ADV.Class7.Domain\\Homework.C#ADV.Class7.Domain.csproj|c:\\users\\ilija\\documents\\github\\c-advanced-homeworks\\class 7 homework\\qinshiftacademy.homework.c#adv.class7\\homework.c#adv.class7.domain\\models\\cardataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F54A0C4-B6BA-479A-BE1A-CCF6F715CB52}|Homework.C#ADV.Class7.Domain\\Homework.C#ADV.Class7.Domain.csproj|solutionrelative:homework.c#adv.class7.domain\\models\\cardataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarDataProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7.Domain\\Models\\CarDataProcessor.cs",
+              "RelativeDocumentMoniker": "Homework.C#ADV.Class7.Domain\\Models\\CarDataProcessor.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7.Domain\\Models\\CarDataProcessor.cs",
+              "RelativeToolTip": "Homework.C#ADV.Class7.Domain\\Models\\CarDataProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:50:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7.Domain\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Homework.C#ADV.Class7.Domain\\Database\\Database.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7.Domain\\Database\\Database.cs",
+              "RelativeToolTip": "Homework.C#ADV.Class7.Domain\\Database\\Database.cs",
+              "ViewState": "AQIAAHYBAAAAAAAAAADwv5QBAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:46:11.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7\\Program.cs",
+              "RelativeDocumentMoniker": "Homework.C#ADV.Class7\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7\\Program.cs",
+              "RelativeToolTip": "Homework.C#ADV.Class7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:52:01.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7.Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Homework.C#ADV.Class7.Domain\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Ilija\\Documents\\github\\C-Advanced-Homeworks\\Class 7 Homework\\QinshiftAcademy.Homework.C#ADV.Class7\\Homework.C#ADV.Class7.Domain\\Models\\Car.cs",
+              "RelativeToolTip": "Homework.C#ADV.Class7.Domain\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:45:14.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
